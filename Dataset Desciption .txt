@@ -44,4 +44,9 @@ Chia ra làm 2 phần:
 			--(R) Retraction
 
 *Đánh giá:
- 	Bộ data raw files là 1 bộ dữ liệu dược xây dựng để xác trạng thái người dựa trên các tọa độ vị trí, hướng, vận tốc của các bộ phận k
+ 	Bộ data raw files là 1 bộ dữ liệu dược xây dựng để xác trạng thái người dựa trên các tọa độ vị trí, hướng, vận tốc của các bộ phận trên cơ thể 
+
+Problem: phân loại gom nhóm các thuộc tính dáng người dựa trên các đặc trưng của dataset
+
+Ý kiến đề xuất:
+	
